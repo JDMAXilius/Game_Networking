@@ -1,0 +1,6 @@
+﻿  Client.cpp
+D:\Documents\Full Sail University\Computer Networks\Lab2_LS&C\Client\Client.cpp(24,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ClientD.cpp
+D:\Documents\Full Sail University\Computer Networks\Lab2_LS&C\Client\ClientD.cpp(77,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Client.vcxproj -> D:\Documents\Full Sail University\Computer Networks\Lab2_LS&C\Client\x64\Debug\Client.exe

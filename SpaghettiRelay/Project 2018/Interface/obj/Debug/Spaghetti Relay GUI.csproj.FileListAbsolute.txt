@@ -1,0 +1,10 @@
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Computer Networks\SpaghettiRelay_LAB1\SpaghettiRelay\Project 2018\Debug\Spaghetti Relay GUI.exe.config
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Computer Networks\SpaghettiRelay_LAB1\SpaghettiRelay\Project 2018\Debug\Spaghetti Relay GUI.exe
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Computer Networks\SpaghettiRelay_LAB1\SpaghettiRelay\Project 2018\Debug\Spaghetti Relay GUI.pdb
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Computer Networks\SpaghettiRelay_LAB1\SpaghettiRelay\Project 2018\Interface\obj\Debug\Spaghetti Relay GUI.csproj.AssemblyReference.cache
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Computer Networks\SpaghettiRelay_LAB1\SpaghettiRelay\Project 2018\Interface\obj\Debug\Spaghetti_Relay_GUI.Properties.Resources.resources
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Computer Networks\SpaghettiRelay_LAB1\SpaghettiRelay\Project 2018\Interface\obj\Debug\Message_Relay_GUI.SpaghettiForm.resources
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Computer Networks\SpaghettiRelay_LAB1\SpaghettiRelay\Project 2018\Interface\obj\Debug\Spaghetti Relay GUI.csproj.GenerateResource.cache
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Computer Networks\SpaghettiRelay_LAB1\SpaghettiRelay\Project 2018\Interface\obj\Debug\Spaghetti Relay GUI.csproj.CoreCompileInputs.cache
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Computer Networks\SpaghettiRelay_LAB1\SpaghettiRelay\Project 2018\Interface\obj\Debug\Spaghetti Relay GUI.exe
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Computer Networks\SpaghettiRelay_LAB1\SpaghettiRelay\Project 2018\Interface\obj\Debug\Spaghetti Relay GUI.pdb

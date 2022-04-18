@@ -1,0 +1,11 @@
+﻿  Server.cpp
+D:\Documents\Full Sail University\Computer Networks\Lab2_LS&C\Server\Server.cpp(154,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\Full Sail University\Computer Networks\Lab2_LS&C\Server\Server.cpp(173,26): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Full Sail University\Computer Networks\Lab2_LS&C\Server\Server.cpp(179,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\Full Sail University\Computer Networks\Lab2_LS&C\Server\Server.cpp(56,9): warning C4101: 'outSock1': unreferenced local variable
+  Generating code
+  1 of 275 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Server.vcxproj -> D:\Documents\Full Sail University\Computer Networks\Lab2_LS&C\Server\x64\Release\Server.exe
